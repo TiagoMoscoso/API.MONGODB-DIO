@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api",
+    "\\Api\\Controllers",
+    "\\Api\\Data",
+    "\\Api\\Data\\Collections",
+    "\\Api\\Models",
+    "\\Api\\obj",
+    "\\Api\\Properties"
+  ],
+  "SelectedNode": "\\Api\\Controllers\\InfectadoController.cs",
+  "PreviewInSolutionExplorer": false
+}
